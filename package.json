@@ -1,0 +1,11 @@
+{
+    "name": "serverless-email-task",
+    "version": "1.0.0",
+    "main": "handler.js",
+    "dependencies": {
+        "nodemailer": "^6.9.0"
+    },
+    "devDependencies": {
+        "serverless-offline": "^13.3.0"
+    }
+}
